@@ -17,5 +17,9 @@ public class JenkinsDemo1 {
 		System.out.println(x[0]);
 		System.out.println(y[0]);
 		System.out.println(z[0]);
+		
+		System.out.println(x[1]);
+		System.out.println(y[1]);
+		System.out.println(z[1]);
 	}
 }
